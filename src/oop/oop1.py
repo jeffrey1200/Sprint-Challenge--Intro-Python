@@ -22,7 +22,6 @@
 class Vehicle:
     pass
 
-
 #Vehicle child class
 class GroundVehicle(Vehicle):
     pass
@@ -37,7 +36,6 @@ class Motorcycle(GroundVehicle):
 
 
 
-
 #FlightVehicle base class
 class FlightVehicle:
     pass
@@ -46,9 +44,11 @@ class FlightVehicle:
 class Airplane(FlightVehicle):
     pass
 
+
+
+
 #Starship base class
 class Starship:
     pass
 
 
-#
